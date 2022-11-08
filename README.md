@@ -1,1 +1,1 @@
-# PokemoNK- On this Project me and my Team Developing a mobile application that user can buy Pokemon and admin can manage Pokemon data that will be sell. On this project we used Java for the scripting language and SQL for the database.
+# PokemoNK- On this Project me and my team Developing a mobile application that user can buy Pokemon and admin can manage Pokemon data that will be sell. On this project we used Java for the scripting language and SQL for the database.
